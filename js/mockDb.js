@@ -94,7 +94,7 @@ function seed() {
   });
 
   const settings = {
-    hostel_name: "Malabar Muslim Association",
+    hostel_name: "REVV PG",
     owner_name: "Alavudeen",
     address: "12 Anna Nagar Main Road, Chennai, Tamil Nadu",
     phone: "9876543210",

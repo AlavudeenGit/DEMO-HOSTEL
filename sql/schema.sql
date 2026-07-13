@@ -1,5 +1,5 @@
 -- ============================================================
--- Malabar Muslim Association Register — Database Schema (Supabase / PostgreSQL)
+-- REVV PG Register — Database Schema (Supabase / PostgreSQL)
 -- ============================================================
 -- Run this once in the Supabase SQL editor on a fresh project.
 -- Order matters (foreign keys reference earlier tables).
@@ -18,7 +18,7 @@ create table if not exists hostel_settings (
 );
 
 insert into hostel_settings (key, value) values
-  ('hostel_name', 'Malabar Muslim Association'),
+  ('hostel_name', 'REVV PG'),
   ('owner_name', ''),
   ('address', ''),
   ('phone', ''),

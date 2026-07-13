@@ -1,4 +1,4 @@
-# Malabar Muslim Association Register — Complete Hostel / PG Management System
+# REVV PG Register — Complete Hostel / PG Management System
 
 A production-oriented, single-admin Hostel/PG management system: rooms,
 students/employees, workers, payments, expenses, salaries, reports, and
