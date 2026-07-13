@@ -49,9 +49,9 @@ export async function requireSession() {
     return data.session;
   }
   // Demo mode guard
-  if (!sessionStorage.getItem(DEMO_FLAG)) {
-    window.location.href = "login.html";
-  }
+  // if (!sessionStorage.getItem(DEMO_FLAG)) {
+  //   window.location.href = "login.html";
+  // }
   return null;
 }
 
@@ -61,5 +61,5 @@ export async function signOut() {
   } else {
     sessionStorage.removeItem(DEMO_FLAG);
   }
-  window.location.href = "login.html";
+  // window.location.href = "login.html";
 }
