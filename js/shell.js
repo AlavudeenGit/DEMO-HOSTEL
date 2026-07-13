@@ -78,12 +78,12 @@ export function renderShell(
   sidebar.innerHTML = `
     <div class="brand">
        <img
-          src="asset/images/MMA_LOGO.png"
+          src="asset/images/LOGO.png"
           alt="MMA Logo"
           class="brand-mark-lg"
         />
       <div class="brand-text">
-        <div class="name">Malabar Muslim Association</div>
+        <div class="name">REVV PG</div>
         <div class="sub">Register &amp; Ledger</div>
       </div>
     </div>
